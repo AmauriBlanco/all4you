@@ -1216,7 +1216,7 @@ input:required {
     a {
     font-size: 18px;
     text-transform: capitalize;
-    color: #a31acb;
+    color: #fff;
     font-weight: 600;
     padding: 0 15px;
 }
@@ -1544,6 +1544,15 @@ input:required {
     .hear-home-area {
         height: 150px;
         width: 300px;
+    }
+    .header-area.new-version-2
+    .classy-nav-container
+    .classy-navbar
+    .classynav
+    ul
+    li
+    a {
+      color: #a31acb;
     }
 }
 
