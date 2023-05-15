@@ -769,6 +769,10 @@ input:required {
     color: #fff;
 }
 
+.letters-4 {
+  color: #a31acb !important;
+}
+
 .ont-preloader p {
     font-size: 16px;
     font-weight: 600;
