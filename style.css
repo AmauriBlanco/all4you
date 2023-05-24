@@ -271,7 +271,7 @@ ul li {
     width: 100%;
     top: 20px;
     width: 30px;
-    background: #52355b;
+    background: #5808A5;
     height: 30px;
     line-height: 30px;
     opacity: 1;
@@ -349,7 +349,7 @@ input:required {
 }
 
 .text--primary {
-    color: #52355b !important;
+    color: #5808A5 !important;
 }
 
 .font-16 {
@@ -657,7 +657,7 @@ input:required {
     animation: spinner 1s infinite linear;
     border-radius: 50%;
     border: 3px solid rgba(0, 0, 0, 0.2);
-    border-top-color: #52355b;
+    border-top-color: #5808A5;
     height: 8em;
     margin: 0 auto 3.5em auto;
     width: 8em;
@@ -761,7 +761,7 @@ input:required {
 }
 
 .letters-4 {
-    color: #52355b !important;
+    color: #5808A5 !important;
 }
 
 .ont-preloader p {
@@ -769,7 +769,7 @@ input:required {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 8px;
-    color: #52355b;
+    color: #5808A5;
 }
 
 .ont-preloader .loader {
@@ -942,7 +942,7 @@ input:required {
 #scrollUp {
     width: 35px;
     height: 35px;
-    background-color: #52355b;
+    background-color: #5808A5;
     bottom: 20px;
     right: 20px;
     color: #fff;
@@ -969,7 +969,7 @@ input:required {
     display: inline-block;
     letter-spacing: 1px;
     padding: 0 30px;
-    border: 2px solid #391f41;
+    border: 2px solid #260744;
     text-align: center;
     text-transform: capitalize;
     letter-spacing: 1;
@@ -978,13 +978,13 @@ input:required {
     -webkit-transition-duration: 400ms;
     -o-transition-duration: 400ms;
     transition-duration: 400ms;
-    background-color: #713981;
+    background-color: #5808A5;
 }
 
 .onita-btn:focus,
 .onita-btn:hover {
     font-weight: 600;
-    background-color: #260c2e;
+    background-color: #8f3ae1;
     color: #ffffff;
 }
 
@@ -998,11 +998,11 @@ input:required {
     display: inline-block;
     letter-spacing: 1px;
     padding: 0 30px;
-    background-color: #360e42;
+    background-color: #8f3ae1;
     text-align: center;
     text-transform: capitalize;
     letter-spacing: 1px;
-    color: #ffffff;
+    color: #fff;
     border-radius: 3px;
     -webkit-transition-duration: 300ms;
     -o-transition-duration: 300ms;
@@ -1012,8 +1012,8 @@ input:required {
 .onita-btn-2:focus,
 .onita-btn-2:hover {
     font-weight: 600;
-    background-color: #713981;
-    border: 1px solid #260c2e;
+    background-color: #5808A5;
+    border: 1px solid #5808A5;
     color: #ffffff;
 }
 
@@ -1075,7 +1075,7 @@ input:required {
 
 .classy-nav-container .classy-navbar .classynav ul li a:hover,
 .classy-nav-container .classy-navbar .classynav ul li a:focus {
-    color: #52355b;
+    color: #5808A5;
     transform: scale(1.05);
 }
 
@@ -1087,7 +1087,7 @@ input:required {
 
     .classy-nav-container .classy-navbar .classynav ul li a:hover,
     .classy-nav-container .classy-navbar .classynav ul li a:focus {
-        color: #52355b;
+        color: #5808A5;
     }
 }
 
@@ -1099,7 +1099,7 @@ input:required {
 
     .classy-nav-container .classy-navbar .classynav ul li a:hover,
     .classy-nav-container .classy-navbar .classynav ul li a:focus {
-        color: #52355b;
+        color: #5808A5;
     }
 }
 
@@ -1145,7 +1145,7 @@ input:required {
     ul
     li
     a:hover {
-    color: #52355b;
+    color: #5808A5;
 }
 
 .classynav ul li.active a {
@@ -1156,7 +1156,7 @@ input:required {
 .classynav ul li.has-down > a::after,
 .classynav ul li.has-down.active > a::after,
 .classynav ul li.megamenu-item > a::after {
-    color: #52355b;
+    color: #5808A5;
 }
 
 .breakpoint-off .classynav ul li .dropdown,
@@ -1194,9 +1194,9 @@ input:required {
 }
 
 .header-area.new-version-2 {
-    background-color: #52355b;
+    background-color: #fff;
     box-shadow: 1px 1px 20px #000;
-    color: #fff;
+    color: #000;
 }
 .header-area.new-version-2
     .classy-nav-container
@@ -1207,7 +1207,7 @@ input:required {
     a {
     font-size: 16px;
     text-transform: capitalize;
-    color: #fff;
+    color: #000;
     font-weight: 600;
     padding: 0 10px;
 }
@@ -1571,7 +1571,7 @@ input:required {
     display: inline-block;
     text-align: center;
     background-color: #ffffff;
-    color: #52355b;
+    color: #5808A5;
 }
 
 .hear-home-area .hero-left-area .video-icon:hover {
@@ -1619,7 +1619,7 @@ input:required {
 }
 
 .welcome-area .down-icon a {
-    color: #52355b;
+    color: #5808A5;
 }
 
 @-webkit-keyframes downIcon {
@@ -1722,7 +1722,7 @@ input:required {
 }
 
 .welcome-text-new h3 span {
-    color: #52355b;
+    color: #5808A5;
     font-weight: 900;
     font-size: 50px;
 }
@@ -1807,7 +1807,7 @@ input:required {
 }
 
 .welcome-text h3 span {
-    color: #52355b;
+    color: #5808A5;
     font-weight: 900;
     font-size: 50px;
 }
@@ -1972,7 +1972,7 @@ input:required {
     transition-duration: 500ms;
 }
 
-.our-work-area .single-work-area .single-feature-area h4 a {
+.our-work-area .single-work-area .single-feature-area h4 {
     font-size: 22px;
     font-weight: 600;
     -webkit-transition-duration: 500ms;
@@ -1985,8 +1985,8 @@ input:required {
     box-shadow: 0px 30px 60px 0px rgba(38, 59, 94, 0.1);
 }
 
-.our-work-area .single-work-area .single-feature-area:hover h4 a {
-    color: #52355b;
+.our-work-area .single-work-area .single-feature-area:hover h4 {
+    color: #5808A5;
 }
 
 .our-work-area .single-work-area .single-feature-area .derection-icon {
@@ -1994,7 +1994,7 @@ input:required {
     align-self: flex-start;
 }
 
-.our-work-area .single-work-area .single-feature-area .derection-icon a {
+.our-work-area .single-work-area .single-feature-area .derection-icon i {
     font-size: 34px;
     color: #afb8ce;
     -webkit-transition-duration: 500ms;
@@ -2002,17 +2002,17 @@ input:required {
     transition-duration: 500ms;
 }
 
-.our-work-area .single-work-area .single-feature-area .derection-icon a:hover {
-    color: #52355b;
+.our-work-area .single-work-area .single-feature-area .derection-icon i:hover {
+    color: #5808A5;
 }
 
 .our-work-area .single-work-area .number {
-    border: 2px solid #52355b;
+    border: 2px solid #5808A5;
     height: 35px;
     width: 35px;
     text-align: center;
     line-height: 31px;
-    color: #52355b;
+    color: #5808A5;
     border-radius: 50%;
     margin: auto;
     font-size: 15px;
@@ -2039,13 +2039,13 @@ input:required {
 }
 
 .our-work-area .single-work-area:hover .number {
-    background-color: #52355b;
+    background-color: #5808A5;
     color: #fff;
     border-radius: 2px;
 }
 
 .our-work-area .single-work-area:hover .border-line {
-    background-color: #52355b;
+    background-color: #5808A5;
     height: 2px;
     width: 100%;
 }
@@ -2119,7 +2119,7 @@ input:required {
     border-radius: 50%;
     display: inline-block;
     text-align: center;
-    background-color: #52355b;
+    background-color: #5808A5;
     color: #ffffff;
 }
 
@@ -2184,7 +2184,7 @@ input:required {
 }
 
 .about-us-area .about-us-desc .about-us-text .icon {
-    color: #52355b;
+    color: #5808A5;
     font-size: 50px;
     width: 50px;
     height: 50px;
@@ -2347,7 +2347,7 @@ input:required {
     font-size: 12px;
     text-transform: uppercase;
     color: #ffffff;
-    background-color: #52355b;
+    background-color: #5808A5;
     font-weight: 500;
     margin-bottom: 15px;
 }
@@ -2451,7 +2451,7 @@ input:required {
 
 .single-blog-content .single-blog-text .blog-title:hover,
 .single-blog-content .single-blog-text .blog-title:focus {
-    color: #52355b;
+    color: #5808A5;
 }
 
 .single-blog-content .single-blog-text .post-meta {
@@ -2478,7 +2478,7 @@ input:required {
 
 .single-blog-content .single-blog-text .post-meta a:hover,
 .single-blog-content .single-blog-text .post-meta a:focus {
-    color: #52355b;
+    color: #5808A5;
 }
 
 .single-blog-content .single-blog-text p {
@@ -2504,7 +2504,7 @@ input:required {
 }
 
 .blog-btn a:hover {
-    color: #52355b;
+    color: #5808A5;
 }
 
 /* :: Blog Details Page CSS */
@@ -2625,7 +2625,7 @@ input:required {
 }
 
 .blog-deatils-area .blog-detais-tag a:hover {
-    background-color: #52355b;
+    background-color: #5808A5;
     color: #ffffff;
 }
 
@@ -2640,7 +2640,7 @@ input:required {
 .blog-deatils-area .blog-detais-tag .blog-share li a {
     height: 30px;
     width: 30px;
-    border: 1px solid #52355b;
+    border: 1px solid #5808A5;
     border-radius: 50%;
     display: inline-block;
     padding: 0;
@@ -2838,8 +2838,8 @@ input:required {
 }
 
 .blog-deatils-area .tag-area ul li a:hover {
-    background-color: #52355b;
-    border-color: #52355b;
+    background-color: #5808A5;
+    border-color: #5808A5;
     color: #ffffff;
 }
 
@@ -2918,7 +2918,7 @@ input:required {
 }
 
 .page-number ul li a.active {
-    background-color: #52355b;
+    background-color: #5808A5;
     color: #fff;
     height: 35px;
     width: 35px;
@@ -2996,7 +2996,7 @@ input:required {
 
 /* :: Footer CSS */
 .footer-area {
-    background-color: #52355b;
+    background-color: #5808A5;
 }
 
 .footer-area .copywrite-content {
@@ -3035,7 +3035,7 @@ input:required {
     width: 30px;
     height: 30px;
     line-height: 30px;
-    color: #52355b;
+    color: #5808A5;
     margin: auto;
 }
 
@@ -3058,13 +3058,13 @@ input:required {
 }
 
 .form-control:focus {
-    border-color: #52355b;
+    border-color: #5808A5;
     box-shadow: none;
 }
 
 /* :: Grow Area CSS */
 .we-grow-brand-area .tab-heading-area {
-    border-right: 5px solid #52355b;
+    border-right: 5px solid #5808A5;
 }
 
 .single-grow-area {
@@ -3122,18 +3122,18 @@ input:required {
 }
 
 .we-grow-brand-area .nav-tabs .nav-link i {
-    color: #52355b;
+    color: #5808A5;
 }
 
 .we-grow-brand-area .nav-tabs .nav-link.active {
-    color: #52355b;
+    color: #5808A5;
     border-radius: 3px;
     display: inline-block;
     background-color: transparent;
 }
 
 .we-grow-brand-area .nav-tabs .nav-link.active i {
-    color: #52355b;
+    color: #5808A5;
 }
 
 .we-grow-brand-area .nav-tabs {
@@ -3151,7 +3151,7 @@ input:required {
 }
 
 .we-grow-brand-area .grow-brand-image-area .bg-overlay-brand {
-    background-color: #52355b;
+    background-color: #5808A5;
     position: absolute;
     bottom: -20px;
     right: -20px;
@@ -3169,11 +3169,11 @@ input:required {
 
 .we-grow-brand-area .single-grow-area .single-grow-text-info .grow-icon {
     font-size: 30px;
-    color: #52355b;
+    color: #5808A5;
 }
 
 .we-grow-brand-area .grow-btn {
-    color: #52355b;
+    color: #5808A5;
     font-size: 16px;
 }
 
@@ -3229,7 +3229,7 @@ input:required {
     height: 50px;
     line-height: 50px;
     margin-bottom: 20px;
-    color: #52355b;
+    color: #5808A5;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
