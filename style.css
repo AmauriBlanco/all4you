@@ -632,6 +632,12 @@ input:required {
     color: #5808A5;
 }
 
+.logo-principal {
+    height: 150px;
+    max-width: none;
+    width: auto;
+}
+
 /* :: Preloader CSS */
 .ont-preloader {
     -webkit-box-align: center;
@@ -3370,5 +3376,11 @@ input:required {
 @media (max-width: 576px) {
     .row {
         margin-inline: auto;
+    }
+
+    .logo-principal {
+        height: auto;
+        max-width: 100%;
+        width: auto;
     }
 }
