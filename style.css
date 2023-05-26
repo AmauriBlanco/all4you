@@ -628,6 +628,10 @@ input:required {
     height: 800px;
 }
 
+.all4you-detalhe {
+    color: #5808A5;
+}
+
 /* :: Preloader CSS */
 .ont-preloader {
     -webkit-box-align: center;
@@ -1039,6 +1043,12 @@ input:required {
     font-size: 0;
 }
 
+.nav-brand img {
+    height: 55px;
+    width: auto;
+    max-width: none;
+}
+
 .classy-navbar .nav-brand:focus,
 .classy-navbar .nav-brand:hover {
     font-size: 0;
@@ -1172,11 +1182,11 @@ input:required {
 }
 
 .classy-navbar-toggler .navbarToggler span {
-    background-color: #fff;
+    background-color: #000;
 }
 
 .classy-navbar-toggler .navbarToggler span {
-    background-color: #fff;
+    background-color: #000;
 }
 
 .breakpoint-on .classynav > ul > li > a {
